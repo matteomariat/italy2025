@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Load itinerary data from JSON file
 async function loadItineraryData() {
     try {
-        const response = await fetch('italy.json');
+        const response = await fetch('/italy.json');
         itineraryData = await response.json();
         displayDay(currentDay);
     } catch (error) {
