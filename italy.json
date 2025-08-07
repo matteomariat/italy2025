@@ -1,0 +1,418 @@
+{
+    "guide_title": "Voyage en Ombrie et dans les Marches",
+    "dates": "8 au 22 août 2025",
+    "introduction": "Voici une proposition de guide de voyage en Ombrie et dans les Marches, enrichi des informations pratiques et des recommandations tirées de vos sources.",
+    "itinerary": [
+      {
+        "date": "8 août",
+        "route": "Rome → Orvieto",
+        "morning": [
+          "Prise en charge de la voiture à Rome. La location d'une voiture est recommandée pour se déplacer entre les villes de la région.",
+          "Stop à Civita di Bagnoregio : Village suspendu sur un piton rocheux. Promenade et vue panoramique. (Note: les sources fournies ne contiennent pas d'informations détaillées sur Civita di Bagnoregio.)",
+          "Départ pour Orvieto (30 min de route)."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            {
+              "name": "Cathédrale d'Orvieto",
+              "description": "Ce chef-d'œuvre du gothique italien, dédié à l'Assomption de la Vierge Marie, est un véritable joyau de l'Ombrie. Sa façade spectaculaire, ornée de dentelle de pierre, de la rosace d'Andrea Orcagna et de mosaïques scintillantes d'or et de marbre, représente la vie de la Vierge. À l'intérieur, vous découvrirez une profusion de couleurs, un orgue de 8 000 tuyaux (le deuxième d'Italie) et de magnifiques vitraux et fresques, notamment celles de Fra Angelico et la série remarquable du Jugement Dernier de Luca Signorelli. La construction a débuté en 1290 et a duré quatre siècles.",
+              "details": {
+                "entry_fee": "4 €",
+                "hours": "9h30 à 17h (novembre à février), 9h30 à 18h (mars et octobre), et 9h30 à 19h (avril à septembre)"
+              }
+            },
+            {
+              "name": "Orvieto Underground",
+              "description": "Explorez un dédale de grottes creusées à la main par les Étrusques pour se fournir en eau. Sur les 1 200 grottes d'Orvieto, environ 440 sont encore utilisées par les propriétaires de maisons. Les deux grandes cavités ouvertes au public servaient autrefois à la production d'huile d'olive et abritaient des colombiers au Moyen Âge, et plus tard de refuges pendant la Seconde Guerre mondiale.",
+              "details": {
+                "entry_fee": "7 €",
+                "tour_duration": "45 minutes"
+              }
+            },
+            {
+              "name": "Dégustation de vin",
+              "description": "La région d'Orvieto est célèbre pour ses vins. Vous pourriez visiter l'Enoteca Barberani, un domaine de plus de 100 hectares dont 55 sont couverts de vignobles spécialisés. Ils pratiquent l'agriculture biologique et produisent environ 350 000 bouteilles par an. Vous y trouverez une dizaine d'étiquettes différentes à vendre."
+            },
+            {
+              "name": "Puits de Saint-Patrick (Pozzo di San Patrizio)",
+              "description": "C'est une curiosité architecturale commandée par le pape Clément VII après le sac de Rome en 1527 pour approvisionner la ville en eau. Il plonge jusqu'à 60 mètres de profondeur et se caractérise par ses deux escaliers en spirale (chacun 248 marches) dotés de 70 fenêtres, qui descendent sans jamais se rencontrer.",
+              "details": {
+                "entry_fee": "5 €",
+                "hours": "varient"
+              }
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Tipica Trattoria Etrusca",
+              "location": "Via Lorenzo Maitani, 10",
+              "specialty": "pâtes aux truffes, plats typiques d'Orvieto, pâtes maison, spécialités aux champignons",
+              "note": "Leur cave à vin ancienne propose également des visites avec dégustation."
+            },
+            {
+              "name": "Antico Bucchero",
+              "location": "Via dei Cartari, 4",
+              "specialty": "plats de pâtes à la truffe"
+            }
+          ],
+          "accommodation": "Nuit à Orvieto."
+        }
+      },
+      {
+        "date": "9 août",
+        "route": "Orvieto → Lac Trasimène",
+        "morning": [
+          "Départ vers le Lac Trasimène (1h de route).",
+          "Stop à Città della Pieve : Ce village est la ville natale du Pérugin, maître de la Renaissance. La ville dispose d'un office de tourisme dynamique qui peut fournir des informations sur les expositions et les environs."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            {
+              "name": "Passignano sul Trasimeno",
+              "description": "Promenade au bord du lac et port. Le lac Trasimène est le quatrième plus grand lac d'Italie, offrant un cadre de villégiature et un microclimat propice à la vigne."
+            },
+            {
+              "name": "Excursion en bateau vers l'île Maggiore",
+              "description": "Cette île est considérée comme la plus belle du lac, avec ses maisons du XVe siècle et ses deux églises : San Salvatore (romane) et San Michele Arcangelo (XIVe siècle). L'artisanat de la dentelle brodée est une tradition vivante datant du XIXe siècle.",
+              "details": {
+                "ferry_company": "Umbria Mobilita",
+                "ferry_schedule": "départs toutes les 40 minutes en saison estivale",
+                "ticket_price": "5 € l'aller et 6,50 € l'aller-retour"
+              }
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Osteria Rosso di Sera",
+              "specialty": "spécialités de poissons du lac (la regina alla porchetta)"
+            },
+            {
+              "name": "Hotel Aganoor",
+              "location": "Passignano sul Trasimeno",
+              "note": "Dispose de son propre restaurant dans un ancien cellier, proposant des plats abordables."
+            }
+          ],
+          "accommodation": "Nuit à Passignano sul Trasimeno."
+        }
+      },
+      {
+        "date": "10 août",
+        "route": "Lac Trasimène",
+        "morning": [
+          "Randonnée autour du lac. Le Parc régional du Trasimène, inauguré en 1995, s'étend sur 13 200 hectares et se caractérise par une riche faune et flore lacustre. Le site www.umbriatourism.it répertorie plus de vingt itinéraires de VTT et de vélos avec vue sur le lac ou longeant les prés fleuris.",
+          "Visite d’un vignoble (Lungarotti à Torgiano) : Le domaine Le Tre Vaselle (Via Garibaldi, 48), à une quinzaine de minutes de Pérouse, est une adresse luxueuse qui possède les caves Lungarotti, produisant les meilleurs vins de la région, dont le Torgiano. Le Torgiano Rosso Riserva DOCG est l'un des vins emblématiques de l'Ombrie. L'hôtel propose également des soins de vinothérapie."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Détente sur les plages du lac ou excursion en paddle/canoë. À Castiglione del Lago, il est possible de louer des pédalos et des canoës pour explorer le lac.",
+            {
+              "name": "Stop à Castiglione del Lago",
+              "description": "Ce superbe village fortifié, dominé par la forteresse commandée par Frédéric II de Souabe, offre de vieux chemins de ronde avec des panoramas splendides. Vous pouvez y découvrir le Palazzo della Corgna avec ses fresques du XVIe siècle. Des artisans locaux pratiquent encore la poterie et la restauration du bois."
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Casa Colonica",
+              "location": "Località La Casella",
+              "specialty": "plats traditionnels, grillades dans un cadre familial. Ils produisent leurs propres vins (Malvasia, Cabernet Sauvignon, Merlot, Sangiovese)."
+            }
+          ],
+          "accommodation": "Nuit à Passignano sul Trasimeno."
+        }
+      },
+      {
+        "date": "11 août",
+        "route": "Lac Trasimène → Pérouse",
+        "morning": [
+          "Départ pour Pérouse (30 min de route).",
+          "Stop à Magione : Ce village est une étape intéressante avec le sanctuaire de la Madonna delle Fontanelle (XVe siècle) et le château de l'ordre de Malte avec sa tour lombarde."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            {
+              "name": "Piazza IV Novembre, Fontana Maggiore, Palazzo dei Priori",
+              "description": "La Piazza IV Novembre est le point de rencontre des locaux et un carrefour des civilisations étrusque et romaine. La Fontana Maggiore est l'un des plus beaux témoignages de l'ingénierie hydraulique, avec ses deux vasques imposantes ornées de sculptures. Le Palazzo dei Priori est l'un des plus beaux hôtels de ville italiens, avec sa silhouette crénelée et son grand escalier menant à un portail orné de sculptures de griffons et de lions."
+            },
+            {
+              "name": "Visite de la Galleria Nazionale dell’Umbria",
+              "description": "Située à l'intérieur du Palazzo dei Priori, cette galerie présente une collection d'art italien du Moyen Âge à la Renaissance, incluant des œuvres de Piero della Francesca.",
+              "details": {
+                "entry_fee": "8 €"
+              }
+            },
+            {
+              "name": "Dégustation de chocolat à la Casa del Cioccolato Perugina",
+              "description": "Inauguré en 1997 pour les 90 ans de la marque, ce musée retrace l'histoire du célèbre Baci Perugina. Vous pouvez y découvrir l'histoire du chocolat, assister à des cours de chocolaterie, visiter la fabrique et déguster les saveurs dans la salle de dégustation.",
+              "details": {
+                "duration": "environ 1h15",
+                "price": "9 €"
+              }
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "L'Altromondo",
+              "location": "Via Cesare Caporali, 13",
+              "specialty": "cuisine régionale de qualité, avec une préférence pour les truffes, mais aussi des plats de poisson et végétariens."
+            }
+          ],
+          "accommodation": "Nuit à Pérouse."
+        }
+      },
+      {
+        "date": "12 août",
+        "route": "Pérouse → Assise",
+        "morning": [
+          "Départ pour Assise (30 min de route).",
+          "Stop à Deruta : Cette ville est réputée pour ses céramiques artisanales. Le Musée Régional de la Céramique (Largo San Francesco, 1) expose près de 6 000 pièces et explique les techniques artisanales d'époque."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            {
+              "name": "Basilique Saint-François",
+              "description": "Inscrite au patrimoine de l'Unesco, cette splendide basilique est d'une richesse artistique exceptionnelle. Construite sur le tombeau du saint, elle se compose de deux basiliques superposées : la Basilique Supérieure, de style gothique français, est inondée de lumière et présente les fresques de Giotto illustrant la vie de saint François. La Basilique Inférieure, plus austère, abrite le tombeau de saint François et des fresques de Pietro Lorenzetti, Giotto et Simone Martini.",
+              "details": {
+                "entry_fee": "Gratuite",
+                "audio_guide": "2 €"
+              }
+            },
+            {
+              "name": "Basilique Sainte-Claire",
+              "description": "Dédiée à sainte Claire, première disciple féminine de saint François et fondatrice de l'ordre des clarisses. La basilique présente une belle façade en pierres blanches et roses et abrite les fresques de l'école de Giotto, ainsi que le crucifix qui aurait parlé à saint François. Dans la crypte, vous pouvez voir le corps de la sainte et ses reliques.",
+              "details": {
+                "entry_fee": "Libre"
+              }
+            },
+            {
+              "name": "Abbaye de San Damiano (Convento San Damiano)",
+              "description": "C'est un haut lieu franciscain où saint François aurait entendu le crucifix lui demander de 'réparer sa maison' et où il écrivit le Cantique de frère Soleil. Situé hors des murs d'Assise, cet endroit paisible, bordé d'oliviers, invite au recueillement.",
+              "details": {
+                "entry_fee": "Libre"
+              }
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Medioevo",
+              "location": "Via Arco dei Priori, 4",
+              "specialty": "plats de saison simples et raffinés, avec un accent sur les produits locaux tels que les truffes et la charcuterie de fermes ombriennes et toscanes."
+            }
+          ],
+          "accommodation": "Nuit à Assise."
+        }
+      },
+      {
+        "date": "13 août",
+        "route": "Assise → Spoleto → Cascade de Marmore",
+        "morning": [
+          "Départ pour Spoleto (1h de route).",
+          {
+            "name": "Duomo de Spoleto (Cattedrale Santa Maria Assunta)",
+            "description": "C'est le monument le plus important de Spoleto, de style roman, construit au XIIe siècle. Sa façade lumineuse est percée de huit rosaces et dominée par la mosaïque de Solsterno. L'intérieur baroque abrite des fresques de la Madonna e i Santi par Pinturicchio et surtout les superbes fresques de Fra Filippo Lippi.",
+            "details": {
+              "entry_fee": "Libre"
+            }
+          },
+          {
+            "name": "Pont des Tours (Ponte delle Torri)",
+            "description": "Cette majestueuse construction médiévale du XIVe siècle est un aqueduc long de 230 mètres, haut de 80 mètres, avec dix immenses arches gothiques. Il relie la Rocca Albornoziana à Monteluco et offre une belle promenade panoramique."
+          }
+        ],
+        "afternoon_evening": {
+          "activities": [
+            {
+              "name": "Chutes de Marmore (Cascata delle Marmore)",
+              "description": "Magnifique cascade artificielle construite par les Romains en 271 av. J.-C. pour réguler la rivière Velino. L'eau dévale 165 mètres sur trois niveaux. Le spectacle est grandiose et la cascade est illuminée le soir. Il est conseillé de vérifier les heures de relâche de l'eau pour profiter du meilleur débit (souvent entre 16h et 18h en été).",
+              "details": {
+                "entry_fee": "10 €"
+              }
+            },
+            {
+              "name": "Rafting et randonnée",
+              "description": "Le centre Rafting Gaia propose des activités de rafting et d'hydrospeed sur la rivière Nera, avec des parcours pour débutants et expérimentés, incluant des explications sur la faune et la flore environnantes.",
+              "details": {
+                "price": "30 € par adulte et 20 € par enfant"
+              }
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Il Panciolle",
+              "location": "Via del Duomo, 3/5",
+              "specialty": "cuisine traditionnelle et raffinée, viandes grillées, strangozzi al tartufo nero (pâtes aux truffes noires), fromages et charcuteries typiques de la Valnerina."
+            }
+          ],
+          "accommodation": "Nuit à Spoleto."
+        }
+      },
+      {
+        "date": "14 août",
+        "route": "Spoleto → Norcia",
+        "morning": [
+          "Départ pour Norcia (1h30).",
+          "Dégustation de produits à la truffe : Norcia est particulièrement réputée pour ses truffes noires et sa charcuterie.",
+          {
+            "name": "Moscatelli Tartufi",
+            "location": "Corso Sertorio, 21",
+            "specialty": "véritable musée vivant de fromages régionaux, charcuteries et truffes, offrant la gamme la plus complète de produits locaux."
+          },
+          {
+            "name": "La Taverna de’ Massari",
+            "location": "Località Fontevena, 8",
+            "specialty": "étape gastronomique incontournable, servant de nombreux mets à base de truffes, notamment les délicieux raviolis aux champignons et truffes."
+          }
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Balade dans les Monts Sibyllins. Ces montagnes unissent les régions des Marches et de l'Ombrie, offrant des paysages sauvages et des sentiers de randonnée. La meilleure période pour visiter se situe entre fin mai et début juillet, quand les hauts plateaux sont recouverts de fleurs, ou en hiver avec la neige."
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Ristorante Granaro del Monte",
+              "location": "Via Alfieri, 6",
+              "specialty": "cuisine traditionnelle régionale dans un cadre calme et historique. Le plus ancien restaurant d'Ombrie (ouvert depuis 1850)."
+            }
+          ],
+          "accommodation": "Nuit à Norcia."
+        }
+      },
+      {
+        "date": "15 août",
+        "route": "Randonnée au Lac de Pilate",
+        "morning": [
+          "Journée complète : Départ tôt pour une randonnée au Lac de Pilate. Ce petit lac de montagne se situe dans les Monts Sibyllins."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Randonnée au Lac de Pilate"
+          ],
+          "dinner_recommendations": [],
+          "accommodation": "Nuit à Norcia."
+        }
+      },
+      {
+        "date": "16 août",
+        "route": "Norcia → Gubbio → Urbino",
+        "morning": [
+          "Départ pour Gubbio (2h30).",
+          {
+            "name": "Visite du Palazzo dei Consoli",
+            "description": "Cet élégant et imposant édifice gothique (14e siècle) est l'un des meilleurs exemples de bâtiment public italien. Il abrite la pinacothèque et le musée civique, où sont conservées les sept Tables Eugubines en bronze, un vestige important de l'ancienne langue ombrienne.",
+            "details": {
+              "entry_fee": "7 €"
+            }
+          },
+          {
+            "name": "Montée en funiculaire",
+            "description": "Prenez le funiculaire vers le Monte Ingino pour admirer une vue magnifique sur la ville et la campagne environnante. Au sommet (827 mètres), vous trouverez une petite église (Sant'Ubaldo) et un musée. Chaque année, le plus grand arbre de Noël du monde est dressé sur le flanc de la colline.",
+            "details": {
+              "price_round_trip": "6 €"
+            }
+          }
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Déjeuner à Gubbio. Le restaurant Federico da Montefeltro (Via della Repubblica, 35) propose une cuisine régionale copieuse dans une ambiance chaleureuse, avec une très bonne carte des vins.",
+            "Route vers Urbino (1h30).",
+            {
+              "name": "Visite du Palais Ducal et de la maison de Raphaël",
+              "description": "Le Palazzo Ducale est l'une des plus anciennes architectures palatiales de la Renaissance et abrite la Galleria Nazionale delle Marche, qui comprend des chefs-d'œuvre de Piero della Francesca et la Muta de Raphaël. La Casa di Raffaello, sa maison natale, retrace le parcours du génie et contient l'une de ses premières fresques.",
+              "details": {
+                "palazzo_ducale_entry_fee": "8 €",
+                "palazzo_ducale_hours": "8h30 à 19h15 (fermé le lundi après-midi)"
+              }
+            }
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Antica Osteria della Stella",
+              "location": "Via Santa Margherita, 1",
+              "specialty": "spécialités locales et plats à base de truffes blanches (notamment en période de récolte, d'octobre à décembre). Les pâtes sont faites maison et tout est 'divinement bon'."
+            }
+          ],
+          "accommodation": "Nuit à Urbino."
+        }
+      },
+      {
+        "date": "17 août",
+        "route": "Urbino → Pesaro → Fano",
+        "morning": [
+          "Départ vers Pesaro (1h15).",
+          {
+            "name": "Visite du Théâtre Rossini et du Musée National Rossini",
+            "description": "Le Musée National Rossini (Via G. Passeri 72), ouvert en 2019, est dédié au grand compositeur Gioachino Rossini. Il retrace son parcours à travers dix salles, avec des vidéos expliquant ses compositions musicales. Un audioguide en anglais est disponible. Vous pouvez aussi visiter sa maison natale (Casa Rossini), rénovée en 2015, qui contient affiches, portraits et objets personnels.",
+            "details": {
+              "musee_entry_fee": "13 €",
+              "combined_ticket": "10 € (avec les musées, valable 7 jours)"
+            }
+          }
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Route vers Fano (30 min).",
+            "Balade autour de l'Arco di Augusto et du port. (Note: les sources fournies mentionnent l'Arco di Augusto comme un site antique mais ne fournissent pas de détails spécifiques sur des balades autour de celui-ci.)"
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Lo Scudiero",
+              "location": "Via Baldassini, 2",
+              "specialty": "fruits de mer, menu de la mer avec huîtres, crevettes, homard, pissenlit et citron vert."
+            }
+          ],
+          "accommodation": "Nuit à Fano."
+        }
+      },
+      {
+        "date": "18 août",
+        "route": "Fano → Senigallia → Sirolo",
+        "morning": [
+          "Départ pour Senigallia (30 min).",
+          "Journée plage et découverte du centre historique. Senigallia est un point de départ pour la route du Verdicchio (un vin blanc), avec un marché où l'on peut acheter fruits et poissons dans un cadre néoclassique."
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Route vers Sirolo (1h15).",
+            "Randonnée autour du Monte Conero et détente sur les plages : Le Parc Naturel de Conero est le seul cap entre Trieste et le Gargano. Ce promontoire protégé offre des paysages, une végétation et des fonds marins uniques, avec des dizaines de plages accessibles par des sentiers. Vous pouvez visiter le Fortino Napoleonico, une forteresse militaire de 1810 transformée en hôtel de prestige."
+          ],
+          "dinner_recommendations": [
+            {
+              "name": "Ristorante Emilia",
+              "location": "Baie de Portonovo",
+              "specialty": "poissons et fruits de mer frais de saison, desserts faits maison. Il est conseillé de réserver le soir, surtout le week-end."
+            }
+          ],
+          "accommodation": "Nuit à Sirolo."
+        }
+      },
+      {
+        "date": "19 août",
+        "route": "Sirolo → Ancône → Loreto",
+        "morning": [
+          "Départ pour Ancône (30 min).",
+          {
+            "name": "Visite de la Cathédrale San Ciriaco",
+            "description": "Construite entre le XIe et le XIIe siècle sur un site païen, c'est l'une des plus belles églises des Marches. Elle allie formes romanes et influences byzantines, avec un portail gothique orné de lions. Le point de vue sur la ville et la mer depuis cette cathédrale perchée sur une colline est superbe.",
+            "details": {
+              "entry_fee": "Libre"
+            }
+          },
+          {
+            "name": "Musée Archéologique des Marches",
+            "description": "Abritant des pièces du Paléolithique à l'époque romaine, y compris un ensemble exceptionnel de bronzes romains.",
+            "details": {
+              "entry_fee": "5 €",
+              "location": "Via Gabriele-Ferretti, 6"
+            }
+          }
+        ],
+        "afternoon_evening": {
+          "activities": [
+            "Route vers Loreto (30 min) et visite du Sanctuaire. La Basilique della Santa Casa sur la colline de Loreto est un lieu célèbre de pèlerinage. Selon la croyance, la Sainte Maison de Lorette, où l'Enfant Jésus a grandi, a été transportée miraculeusement par les anges de Nazareth jusqu'ici. Des milliers de pèlerins viennent y honorer une statue de la Vierge Marie."
+          ],
+          "dinner_recommendations": [],
+          "accommodation": "Nuit à Sirolo."
+        }
+      }
+    ]
+  }
+  

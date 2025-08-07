@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ombrie & Marches Guide</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>Ombrie & Marches Guide</h1>
+                <p class="subtitle">8 au 22 août 2025</p>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-container">
+                <button class="nav-btn active" data-day="0">Jour 1</button>
+                <button class="nav-btn" data-day="1">Jour 2</button>
+                <button class="nav-btn" data-day="2">Jour 3</button>
+                <button class="nav-btn" data-day="3">Jour 4</button>
+                <button class="nav-btn" data-day="4">Jour 5</button>
+                <button class="nav-btn" data-day="5">Jour 6</button>
+                <button class="nav-btn" data-day="6">Jour 7</button>
+                <button class="nav-btn" data-day="7">Jour 8</button>
+                <button class="nav-btn" data-day="8">Jour 9</button>
+                <button class="nav-btn" data-day="9">Jour 10</button>
+                <button class="nav-btn" data-day="10">Jour 11</button>
+                <button class="nav-btn" data-day="11">Jour 12</button>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main">
+            <div class="day-container">
+                <!-- Day content will be dynamically loaded here -->
+            </div>
+        </main>
+
+        <!-- Map Modal -->
+        <div class="map-modal" id="mapModal">
+            <div class="map-modal-content">
+                <div class="map-modal-header">
+                    <h3 id="mapTitle">Carte</h3>
+                    <button class="close-btn" id="closeMap">&times;</button>
+                </div>
+                <div id="map" class="map-container"></div>
+            </div>
+        </div>
+
+        <!-- Activity Modal -->
+        <div class="activity-modal" id="activityModal">
+            <div class="activity-modal-content">
+                <div class="activity-modal-header">
+                    <h3 id="activityTitle">Activité</h3>
+                    <button class="close-btn" id="closeActivity">&times;</button>
+                </div>
+                <div id="activityDetails" class="activity-details"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
